@@ -4,7 +4,7 @@ module.exports = function BatchControlServiceFactory(
 , socket
 , TransactionService
 , $rootScope
-, gettextcontrol-service
+, gettext
 , KeycodesMapped
 ) {
   var batchControlService = {
